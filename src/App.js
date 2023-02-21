@@ -10,10 +10,10 @@ function App() {
   return (
     <Router>
       <Route exact path="/">
-        <Home/>
-      </Route>
+        <                    Home/>
+               </Route>
 
-      <Route path="/product/:id">
+      <Route path="/product/:id"       >
         <Product />
       </Route>
 
